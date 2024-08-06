@@ -1,0 +1,374 @@
+#! C:/1-CG/Nuke/9.0v6/nuke-9.0.6.dll -nx
+version 9.0 v6
+define_window_layout_xml {<?xml version="1.0" encoding="UTF-8"?>
+<layout version="1.0">
+    <window x="1920" y="-1093" w="3840" h="2110" screen="0">
+        <splitter orientation="1">
+            <split size="46"/>
+            <dock id="" hideTitles="1" activePageId="Toolbar.1">
+                <page id="Toolbar.1"/>
+            </dock>
+            <split size="3153" stretch="1"/>
+            <splitter orientation="2">
+                <split size="1194"/>
+                <dock id="" activePageId="Viewer.1">
+                    <page id="Viewer.1"/>
+                </dock>
+                <split size="839"/>
+                <dock id="" activePageId="DAG.1" focus="true">
+                    <page id="DAG.1"/>
+                    <page id="Curve Editor.1"/>
+                    <page id="DopeSheet.1"/>
+                </dock>
+            </splitter>
+            <split size="615"/>
+            <dock id="" activePageId="Properties.1">
+                <page id="Properties.1"/>
+            </dock>
+        </splitter>
+    </window>
+</layout>
+}
+Root {
+ inputs 0
+ name E:/GIT/draw.io-public/examples/_Compose.nk
+ project_directory "\[file dirname \[value root.name]]"
+ frame 4
+ last_frame 6
+ lock_range true
+ fps 30
+ format "1024 1024 0 0 1024 1024 1 square_1K"
+ proxy_type scale
+ proxy_format "1024 778 0 0 1024 778 1 1K_Super_35(full-ap)"
+}
+Read {
+ inputs 0
+ file E:/GIT/draw.io-public/examples/_src/Stages_#####_.png
+ format "1472 832 0 0 1472 832 1 "
+ last 6
+ origlast 6
+ origset true
+ name Read1
+ xpos 1060
+ ypos 1616
+}
+Reformat {
+ type scale
+ resize none
+ flop true
+ name Reformat1
+ xpos 1060
+ ypos 1694
+}
+Crop {
+ box {200 0 {"box.x + 832"} 832}
+ reformat true
+ crop false
+ name Crop1
+ xpos 1060
+ ypos 1742
+}
+Reformat {
+ type scale
+ resize none
+ flop true
+ name Reformat2
+ xpos 1060
+ ypos 1790
+}
+set N64cf000 [stack 0]
+Write {
+ file E:/GIT/draw.io-public/examples/Example.#.png
+ file_type png
+ checkHashOnRead false
+ version 1
+ name Write1
+ xpos 1060
+ ypos 1808
+}
+push $N64cf000
+Time_ClipAndOffset {
+ name Time_ClipAndOffset1
+ xpos 1170
+ ypos 1646
+ origfirst 1
+ origlast 1
+}
+set N6506500 [stack 0]
+Shuffle {
+ red black
+ green black
+ blue black
+ alpha black
+ name Shuffle1
+ xpos 1280
+ ypos 1646
+}
+Reformat {
+ type scale
+ scale 0.5
+ resize none
+ filter Impulse
+ name Reformat3
+ xpos 1390
+ ypos 1646
+}
+set N17a65400 [stack 0]
+Radial {
+ area {92 {area.x} {"width - area.x"} {"height - area.y"}}
+ softness 0
+ name Radial1
+ xpos 1830
+ ypos 1718
+}
+Multiply {
+ value {0.05 0.1 1 1}
+ name Multiply3
+ xpos 1830
+ ypos 1784
+}
+set Nf37de000 [stack 0]
+push $N17a65400
+Dot {
+ name Dot1
+ xpos 1754
+ ypos 1674
+}
+push $N17a65400
+Rectangle {
+ area {104 104 312 312}
+ name Rectangle1
+ xpos 1500
+ ypos 1718
+}
+set N17a64c00 [stack 0]
+Transform {
+ rotate 45
+ center {208 208}
+ name Transform1
+ xpos 1610
+ ypos 1718
+}
+Multiply {
+ value {0.1 1 0.05 1}
+ name Multiply2
+ xpos 1610
+ ypos 1760
+}
+set Nf37de400 [stack 0]
+push $N17a64c00
+Multiply {
+ value {1 0.05 0.1 1}
+ name Multiply1
+ xpos 1500
+ ypos 1760
+}
+set Nf37de800 [stack 0]
+AppendClip {
+ inputs 4
+ meta_from_first false
+ time ""
+ name AppendClip2
+ xpos 1720
+ ypos 1910
+}
+CropToFormat {
+ name CropToFormat2
+ xpos 1720
+ ypos 1934
+}
+ContactSheet_noResize {
+ name ContactSheet_noResize2
+ xpos 1720
+ ypos 1982
+ columns {{"ceil(sqrt(endframe - startframe + 1))"}}
+ rows {{columns}}
+ extra_boundary 0
+ startframe {{first_frame}}
+ endframe {{last_frame}}
+}
+Invert {
+ name Invert1
+ xpos 1720
+ ypos 2024
+}
+set N42859c00 [stack 0]
+push $N6506500
+Merge2 {
+ inputs 2
+ operation difference
+ name Merge2
+ xpos 1170
+ ypos 2078
+}
+set N42859400 [stack 0]
+Reformat {
+ type scale
+ scale 0.5
+ name Reformat4
+ xpos 1170
+ ypos 2198
+}
+Write {
+ file ./Diff-img1.png
+ file_type png
+ checkHashOnRead false
+ version 1
+ name Write5
+ xpos 1170
+ ypos 2265
+}
+push $N42859400
+MergeChannels_RGB {
+ name MergeChannels_RGB1
+ xpos 1280
+ ypos 2126
+}
+Unity_Colorspace_from {
+ name Unity_Colorspace_from1
+ xpos 1280
+ ypos 2150
+}
+Reformat {
+ type scale
+ scale 0.5
+ name Reformat5
+ xpos 1280
+ ypos 2198
+}
+Write {
+ file ./Diff-img2.png
+ file_type png
+ checkHashOnRead false
+ version 1
+ name Write7
+ xpos 1280
+ ypos 2264
+}
+push $Nf37de400
+push $Nf37de000
+push $Nf37de800
+push $N17a65400
+AppendClip {
+ inputs 4
+ meta_from_first false
+ time ""
+ name AppendClip1
+ xpos 1390
+ ypos 1910
+}
+CropToFormat {
+ name CropToFormat1
+ xpos 1390
+ ypos 1934
+}
+ContactSheet_noResize {
+ name ContactSheet_noResize1
+ xpos 1390
+ ypos 1982
+ columns {{"ceil(sqrt(endframe - startframe + 1))"}}
+ rows {{columns}}
+ extra_boundary 0
+ startframe {{first_frame}}
+ endframe {{last_frame}}
+}
+set N6508300 [stack 0]
+Reformat {
+ type scale
+ scale 0.5
+ name Reformat6
+ xpos 1390
+ ypos 2198
+}
+Write {
+ file ./FigA.png
+ file_type png
+ checkHashOnRead false
+ version 1
+ name Write2
+ xpos 1390
+ ypos 2264
+}
+push $N42859c00
+push $N6508300
+Merge2 {
+ inputs 2
+ operation difference
+ name Merge1
+ xpos 1500
+ ypos 2078
+}
+set N42859800 [stack 0]
+Reformat {
+ type scale
+ scale 0.5
+ name Reformat7
+ xpos 1500
+ ypos 2198
+}
+Write {
+ file ./Diff-Fig1.png
+ file_type png
+ checkHashOnRead false
+ version 1
+ name Write4
+ xpos 1500
+ ypos 2264
+}
+push $N42859800
+MergeChannels_RGB {
+ name MergeChannels_RGB2
+ xpos 1610
+ ypos 2126
+}
+Unity_Colorspace_from {
+ name Unity_Colorspace_from2
+ xpos 1610
+ ypos 2150
+}
+Reformat {
+ type scale
+ scale 0.5
+ name Reformat8
+ xpos 1610
+ ypos 2198
+}
+Write {
+ file ./Diff-Fig2.png
+ file_type png
+ checkHashOnRead false
+ version 1
+ name Write6
+ xpos 1610
+ ypos 2264
+}
+push $N42859800
+push $N42859c00
+Reformat {
+ type scale
+ scale 0.5
+ name Reformat9
+ xpos 1720
+ ypos 2198
+}
+Write {
+ file ./FigB.png
+ file_type png
+ checkHashOnRead false
+ version 1
+ name Write3
+ xpos 1720
+ ypos 2264
+}
+Viewer {
+ inputs 2
+ frame 4
+ frame_range 1-6
+ fps 30
+ input_process false
+ translate {-0.2269999981 0.02800000086}
+ name Viewer1
+ note_font Verdana
+ xpos 840
+ ypos 1863
+}
