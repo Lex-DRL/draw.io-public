@@ -50,7 +50,7 @@
         </UserObject>
         <UserObject label="Advanced Weapon Models for LE1" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/853" id="XhbC9aTRr4sNY5ImtjRr-8">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#4A890C,#4A890C);fontColor=default;strokeColor=#2D7600;sketch=1;curveFitting=1;jiggle=2;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
-            <mxGeometry x="525" y="372.5" width="110" height="30" as="geometry" />
+            <mxGeometry x="955" y="197.5" width="110" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="hEbEdlZakMNNl_RcjGQe-56" style="shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="XhbC9aTRr4sNY5ImtjRr-9" target="hEbEdlZakMNNl_RcjGQe-55">
@@ -71,7 +71,7 @@
         </mxCell>
         <UserObject label="Black Market License (LE1)" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/661" id="XhbC9aTRr4sNY5ImtjRr-11">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#4A890C,#4A890C);fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-            <mxGeometry x="535" y="422.5" width="90" height="30" as="geometry" />
+            <mxGeometry x="965" y="247.5" width="90" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Caleston Restored" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/2238" id="XhbC9aTRr4sNY5ImtjRr-12">
@@ -109,7 +109,7 @@
         </UserObject>
         <UserObject label="Elements of Comparative Weaponry (LE1)" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/639" id="XhbC9aTRr4sNY5ImtjRr-18">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#4A890C,#4A890C);fontColor=default;strokeColor=#2D7600;fontSize=10;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
-            <mxGeometry x="520" y="472.5" width="120" height="30" as="geometry" />
+            <mxGeometry x="950" y="297.5" width="120" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Galaxy Map Trackers (LE1)" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/426" id="XhbC9aTRr4sNY5ImtjRr-19">
@@ -353,13 +353,6 @@
         <mxCell id="hEbEdlZakMNNl_RcjGQe-32" style="shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=light-dark(#0050EF,#0050EF);align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;strokeWidth=3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="hEbEdlZakMNNl_RcjGQe-41" target="XhbC9aTRr4sNY5ImtjRr-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="hEbEdlZakMNNl_RcjGQe-33" style="shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="XhbC9aTRr4sNY5ImtjRr-8" target="XhbC9aTRr4sNY5ImtjRr-4">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="890" y="387.5" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="hEbEdlZakMNNl_RcjGQe-34" style="shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=light-dark(#4A890C,#4A890C);align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;startFill=0;dashed=1;strokeWidth=2;" edge="1" parent="1" source="XhbC9aTRr4sNY5ImtjRr-8" target="XhbC9aTRr4sNY5ImtjRr-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -576,6 +569,9 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="hEbEdlZakMNNl_RcjGQe-128" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=light-dark(#0050EF,#0050EF);align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;strokeWidth=3;" edge="1" parent="1" source="XhbC9aTRr4sNY5ImtjRr-4" target="XhbC9aTRr4sNY5ImtjRr-48">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="hEbEdlZakMNNl_RcjGQe-129" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="XhbC9aTRr4sNY5ImtjRr-8" target="XhbC9aTRr4sNY5ImtjRr-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
