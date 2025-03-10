@@ -1,73 +1,73 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.1.0">
   <diagram name="Страница — 1" id="1QfvMjIt6kSm-26QrTTU">
-    <mxGraphModel dx="603" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="772" dy="1053" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="hEbEdlZakMNNl_RcjGQe-7" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="XhbC9aTRr4sNY5ImtjRr-1" target="XhbC9aTRr4sNY5ImtjRr-9">
+        <mxCell id="hEbEdlZakMNNl_RcjGQe-7" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#4A890C,#4A890C);align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;strokeWidth=2;" edge="1" parent="1" source="XhbC9aTRr4sNY5ImtjRr-1" target="hEbEdlZakMNNl_RcjGQe-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;div&gt;Same-Gender Romances for LE1&lt;/div&gt;" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/564" id="XhbC9aTRr4sNY5ImtjRr-1">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
-            <mxGeometry x="160" y="40" width="110" height="30" as="geometry" />
+            <mxGeometry x="80" y="160" width="110" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div&gt;LE1 Sideloader Framework&lt;/div&gt;" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/1309" id="XhbC9aTRr4sNY5ImtjRr-2">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#666666,#666666);strokeColor=light-dark(#666666,#666666);sketch=1;curveFitting=1;jiggle=2;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
-            <mxGeometry x="160" y="240" width="100" height="30" as="geometry" />
+            <mxGeometry x="560" y="320" width="100" height="30" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="hEbEdlZakMNNl_RcjGQe-4" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="XhbC9aTRr4sNY5ImtjRr-3" target="XhbC9aTRr4sNY5ImtjRr-9">
+        <mxCell id="hEbEdlZakMNNl_RcjGQe-4" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#0050EF,#0050EF);align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;strokeWidth=3;" edge="1" parent="1" source="XhbC9aTRr4sNY5ImtjRr-3" target="XhbC9aTRr4sNY5ImtjRr-9">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="&lt;div&gt;LE1 Community Patch&lt;/div&gt;" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/23" id="XhbC9aTRr4sNY5ImtjRr-3">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#0050EF,#0050EF);fontColor=default;strokeColor=light-dark(#B2CBFF,#B2CBFF);points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
-            <mxGeometry x="160" y="120" width="100" height="30" as="geometry" />
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#0050EF,#0050EF);fontColor=default;strokeColor=light-dark(#B2CBFF,#B2CBFF);points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+            <mxGeometry x="480" y="80" width="100" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div&gt;LE1 Diversification Project&lt;/div&gt;" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/1172" id="XhbC9aTRr4sNY5ImtjRr-4">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#0050EF,#0050EF);fontColor=default;strokeColor=light-dark(#B2CBFF,#B2CBFF);points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
-            <mxGeometry x="160" y="200" width="110" height="30" as="geometry" />
+            <mxGeometry x="560" y="280" width="110" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="LE1 Definitive Audio Overhaul" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/1560" id="XhbC9aTRr4sNY5ImtjRr-5">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#0050EF,#0050EF);fontColor=default;strokeColor=light-dark(#B2CBFF,#B2CBFF);points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
-            <mxGeometry x="160" y="160" width="100" height="30" as="geometry" />
+            <mxGeometry x="560" y="240" width="100" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="A Lot of Videos for LE1" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/3" id="XhbC9aTRr4sNY5ImtjRr-6">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#0050EF,#0050EF);fontColor=default;strokeColor=default;fillStyle=hatch;gradientColor=none;sketch=1;curveFitting=1;jiggle=2;glass=0;shadow=0;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
-            <mxGeometry x="40" y="80" width="110" height="30" as="geometry" />
+            <mxGeometry x="480" y="40" width="110" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="A Little Help From My Friends (LE1)" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/1526" id="XhbC9aTRr4sNY5ImtjRr-7">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
-            <mxGeometry x="320" y="80" width="110" height="30" as="geometry" />
+            <mxGeometry x="240" y="800" width="110" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Advanced Weapon Models for LE1" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/853" id="XhbC9aTRr4sNY5ImtjRr-8">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#4A890C,#4A890C);fontColor=default;strokeColor=#2D7600;sketch=1;curveFitting=1;jiggle=2;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
-            <mxGeometry x="320" y="120" width="110" height="30" as="geometry" />
+            <mxGeometry x="280" y="80" width="110" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Alliance Uniform Consistency" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/799" id="XhbC9aTRr4sNY5ImtjRr-9">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
-            <mxGeometry x="320" y="160" width="100" height="30" as="geometry" />
+            <mxGeometry x="720" y="160" width="100" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Appearance Modification Menu" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/2513" id="XhbC9aTRr4sNY5ImtjRr-10">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
-            <mxGeometry x="320" y="200" width="110" height="30" as="geometry" />
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#4A890C,#4A890C);fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+            <mxGeometry x="720" y="200" width="110" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Black Market License (LE1)" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/661" id="XhbC9aTRr4sNY5ImtjRr-11">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
-            <mxGeometry x="320" y="240" width="90" height="30" as="geometry" />
+            <mxGeometry x="720" y="240" width="90" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Caleston Restored" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/2238" id="XhbC9aTRr4sNY5ImtjRr-12">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#E51400,#E51400);fontColor=default;strokeColor=light-dark(#FFACAC,#FFACAC);points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
-            <mxGeometry x="320" y="280" width="110" height="20" as="geometry" />
+            <mxGeometry x="720" y="280" width="110" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="hEbEdlZakMNNl_RcjGQe-5" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="XhbC9aTRr4sNY5ImtjRr-13" target="XhbC9aTRr4sNY5ImtjRr-9">
@@ -75,158 +75,224 @@
         </mxCell>
         <UserObject label="Casual Hubs for LE1" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/574" id="XhbC9aTRr4sNY5ImtjRr-13">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
-            <mxGeometry x="130" y="440" width="120" height="20" as="geometry" />
+            <mxGeometry x="280" y="120" width="120" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Charted Worlds (LE1)" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/524" id="XhbC9aTRr4sNY5ImtjRr-14">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
-            <mxGeometry x="320" y="310" width="120" height="20" as="geometry" />
+            <mxGeometry x="720" y="310" width="120" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Combat Communication (LE1)" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/1934" id="XhbC9aTRr4sNY5ImtjRr-15">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
-            <mxGeometry x="320" y="340" width="120" height="30" as="geometry" />
+            <mxGeometry x="720" y="340" width="120" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Eclectic Emails (LE1)" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/1563" id="XhbC9aTRr4sNY5ImtjRr-16">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
-            <mxGeometry x="320" y="380" width="120" height="20" as="geometry" />
+            <mxGeometry x="240" y="845" width="120" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Halcyon Hairpack (LE1)" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/1497" id="XhbC9aTRr4sNY5ImtjRr-17">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
-            <mxGeometry x="320" y="520" width="130" height="20" as="geometry" />
+            <mxGeometry x="720" y="560" width="130" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Elements of Comparative Weaponry (LE1)" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/639" id="XhbC9aTRr4sNY5ImtjRr-18">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;fontSize=10;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
-            <mxGeometry x="320" y="410" width="120" height="30" as="geometry" />
+            <mxGeometry x="720" y="450" width="120" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Galaxy Map Trackers (LE1)" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/426" id="XhbC9aTRr4sNY5ImtjRr-19">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
-            <mxGeometry x="320" y="480" width="90" height="30" as="geometry" />
+            <mxGeometry x="720" y="520" width="90" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Faster Airlock" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/753" id="XhbC9aTRr4sNY5ImtjRr-20">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
-            <mxGeometry x="320" y="450" width="90" height="20" as="geometry" />
+            <mxGeometry x="720" y="490" width="90" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="&lt;div&gt;Legendary Cutscenes (LE1)&lt;/div&gt;" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/2341" id="XhbC9aTRr4sNY5ImtjRr-21">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
-            <mxGeometry x="520" y="80" width="100" height="30" as="geometry" />
+            <mxGeometry x="920" y="80" width="100" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Hot Labs Restored (LE1)" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/1708" id="XhbC9aTRr4sNY5ImtjRr-22">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
-            <mxGeometry x="320" y="550" width="90" height="30" as="geometry" />
+            <mxGeometry x="720" y="590" width="90" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Keepers Finders (LE1)" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/1043" id="XhbC9aTRr4sNY5ImtjRr-23">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
-            <mxGeometry x="320" y="630" width="130" height="20" as="geometry" />
+            <mxGeometry x="720" y="670" width="130" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Kaidan Alenko Overhaul" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/1213" id="XhbC9aTRr4sNY5ImtjRr-24">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
-            <mxGeometry x="320" y="590" width="90" height="30" as="geometry" />
+            <mxGeometry x="720" y="630" width="90" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Mission Timings" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/754" id="XhbC9aTRr4sNY5ImtjRr-25">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
-            <mxGeometry x="520" y="230" width="100" height="20" as="geometry" />
+            <mxGeometry x="920" y="230" width="100" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Mako Squadmate Banter" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/1310" id="XhbC9aTRr4sNY5ImtjRr-26">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
-            <mxGeometry x="520" y="120" width="100" height="30" as="geometry" />
+            <mxGeometry x="920" y="120" width="100" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="ME3 Alliance Marine Armor for LE1" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/838" id="XhbC9aTRr4sNY5ImtjRr-27">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;fontSize=10;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
-            <mxGeometry x="520" y="190" width="100" height="30" as="geometry" />
+            <mxGeometry x="920" y="190" width="100" height="30" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="ME¹LLO" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/1500" id="XhbC9aTRr4sNY5ImtjRr-28">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#E51400,#E51400);fontColor=default;strokeColor=#B20000;fillStyle=auto;sketch=1;curveFitting=1;jiggle=2;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
-            <mxGeometry x="520" y="160" width="60" height="20" as="geometry" />
+            <mxGeometry x="920" y="160" width="60" height="20" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="XhbC9aTRr4sNY5ImtjRr-29" value="N7 Warfare Pack (AMM Addon)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
-          <mxGeometry x="520" y="370" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="XhbC9aTRr4sNY5ImtjRr-30" value="Morlan&#39;s &#39;Famous&#39; Iconic Armor Shop" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
-          <mxGeometry x="520" y="260" width="110" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="XhbC9aTRr4sNY5ImtjRr-31" value="N7 MAKO (LE1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
-          <mxGeometry x="520" y="340" width="100" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="XhbC9aTRr4sNY5ImtjRr-32" value="Myriad Pro Begone (LE1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
-          <mxGeometry x="520" y="300" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="XhbC9aTRr4sNY5ImtjRr-33" value="Normandy Rapid Transit" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
-          <mxGeometry x="520" y="450" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="XhbC9aTRr4sNY5ImtjRr-34" value="No Mouse Acceleration for ME1 LE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;fontSize=11;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
-          <mxGeometry x="520" y="410" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="XhbC9aTRr4sNY5ImtjRr-35" value="Prothean Consistency Mod (LE1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
-          <mxGeometry x="720" y="80" width="120" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="XhbC9aTRr4sNY5ImtjRr-36" value="Paragade Persuasion" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
-          <mxGeometry x="520" y="490" width="120" height="20" as="geometry" />
-        </mxCell>
+        <UserObject label="N7 Warfare Pack (AMM Addon)" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/2325" id="XhbC9aTRr4sNY5ImtjRr-29">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
+            <mxGeometry x="920" y="370" width="100" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Morlan&#39;s &#39;Famous&#39; Iconic Armor Shop" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/684" id="XhbC9aTRr4sNY5ImtjRr-30">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
+            <mxGeometry x="920" y="260" width="110" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="N7 MAKO (LE1)" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/309" id="XhbC9aTRr4sNY5ImtjRr-31">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
+            <mxGeometry x="920" y="340" width="100" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Myriad Pro Begone (LE1)" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/1070" id="XhbC9aTRr4sNY5ImtjRr-32">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
+            <mxGeometry x="920" y="300" width="90" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Normandy Rapid Transit" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/755" id="XhbC9aTRr4sNY5ImtjRr-33">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
+            <mxGeometry x="920" y="450" width="100" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="No Mouse Acceleration for ME1 LE" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/319" id="XhbC9aTRr4sNY5ImtjRr-34">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;fontSize=11;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
+            <mxGeometry x="920" y="410" width="120" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Prothean Consistency Mod (LE1)" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/1538" id="XhbC9aTRr4sNY5ImtjRr-35">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
+            <mxGeometry x="1120" y="80" width="120" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Paragade Persuasion" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/1673" id="XhbC9aTRr4sNY5ImtjRr-36">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
+            <mxGeometry x="920" y="490" width="120" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
         <mxCell id="hEbEdlZakMNNl_RcjGQe-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;curved=1;" edge="1" parent="1" source="XhbC9aTRr4sNY5ImtjRr-37" target="XhbC9aTRr4sNY5ImtjRr-7">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XhbC9aTRr4sNY5ImtjRr-37" value="Private Message Terminal (LE1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
-          <mxGeometry x="150" y="480" width="100" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="XhbC9aTRr4sNY5ImtjRr-38" value="Pinnacle Station DLC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
-          <mxGeometry x="520" y="520" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="XhbC9aTRr4sNY5ImtjRr-39" value="Quick Loot" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
-          <mxGeometry x="720" y="160" width="70" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="XhbC9aTRr4sNY5ImtjRr-40" value="Punch Charles Saracino" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
-          <mxGeometry x="720" y="120" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="XhbC9aTRr4sNY5ImtjRr-41" value="Scoped Overheat" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
-          <mxGeometry x="720" y="270" width="100" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="XhbC9aTRr4sNY5ImtjRr-42" value="Return to Normandy LE1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
-          <mxGeometry x="720" y="190" width="90" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="hEbEdlZakMNNl_RcjGQe-8" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="XhbC9aTRr4sNY5ImtjRr-43" target="XhbC9aTRr4sNY5ImtjRr-9">
+        <mxCell id="hEbEdlZakMNNl_RcjGQe-12" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="XhbC9aTRr4sNY5ImtjRr-37" target="XhbC9aTRr4sNY5ImtjRr-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XhbC9aTRr4sNY5ImtjRr-43" value="Saren Stages LE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#0050EF,#0050EF);fontColor=default;strokeColor=light-dark(#B2CBFF,#B2CBFF);points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
-          <mxGeometry x="160" y="280" width="100" height="20" as="geometry" />
+        <UserObject label="Private Message Terminal (LE1)" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/1525" id="XhbC9aTRr4sNY5ImtjRr-37">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#666666,#666666);fontColor=default;strokeColor=light-dark(#666666,#666666);points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+            <mxGeometry x="80" y="840" width="100" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Pinnacle Station DLC" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/832" id="XhbC9aTRr4sNY5ImtjRr-38">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
+            <mxGeometry x="920" y="520" width="120" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Quick Loot" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/1026" id="XhbC9aTRr4sNY5ImtjRr-39">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
+            <mxGeometry x="1120" y="160" width="70" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Punch Charles Saracino" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/1524" id="XhbC9aTRr4sNY5ImtjRr-40">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
+            <mxGeometry x="1120" y="120" width="90" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Scoped Overheat" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/1813" id="XhbC9aTRr4sNY5ImtjRr-41">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
+            <mxGeometry x="1120" y="270" width="100" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Return to Normandy LE1" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/1580" id="XhbC9aTRr4sNY5ImtjRr-42">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
+            <mxGeometry x="1120" y="190" width="90" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="hEbEdlZakMNNl_RcjGQe-8" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=light-dark(#4A890C,#4A890C);align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;strokeWidth=2;" edge="1" parent="1" source="XhbC9aTRr4sNY5ImtjRr-43" target="XhbC9aTRr4sNY5ImtjRr-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XhbC9aTRr4sNY5ImtjRr-44" value="Safely skip the conversation for LE1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
-          <mxGeometry x="720" y="230" width="120" height="30" as="geometry" />
+        <UserObject label="Saren Stages LE" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/666" id="XhbC9aTRr4sNY5ImtjRr-43">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#4A890C,#4A890C);fontColor=default;strokeColor=light-dark(#73B14C,#73B14C);points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
+            <mxGeometry x="280" y="180" width="100" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Safely skip the conversation for LE1" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/438" id="XhbC9aTRr4sNY5ImtjRr-44">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
+            <mxGeometry x="1120" y="230" width="120" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Skip Minigames (LE1)" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/360" id="XhbC9aTRr4sNY5ImtjRr-45">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
+            <mxGeometry x="1120" y="300" width="120" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Unlimited Sprint and Boost" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/337" id="XhbC9aTRr4sNY5ImtjRr-46">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
+            <mxGeometry x="1120" y="420" width="100" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Smoother GUI (LE1)" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/2121" id="XhbC9aTRr4sNY5ImtjRr-47">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
+            <mxGeometry x="1120" y="330" width="120" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Unique Moons" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/1735" id="XhbC9aTRr4sNY5ImtjRr-48">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
+            <mxGeometry x="1120" y="390" width="90" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Storm Improvements" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/1971" id="XhbC9aTRr4sNY5ImtjRr-49">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
+            <mxGeometry x="1120" y="360" width="120" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Vignette Remover" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/428" id="XhbC9aTRr4sNY5ImtjRr-50">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
+            <mxGeometry x="1120" y="460" width="110" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="XP Rescale (LE1)" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/369" id="XhbC9aTRr4sNY5ImtjRr-52">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
+            <mxGeometry x="1120" y="490" width="110" height="20" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Delay getting Grounded" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/1989" id="hEbEdlZakMNNl_RcjGQe-10">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" vertex="1" parent="1">
+            <mxGeometry x="240" y="890" width="120" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="hEbEdlZakMNNl_RcjGQe-11" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="XhbC9aTRr4sNY5ImtjRr-37" target="hEbEdlZakMNNl_RcjGQe-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XhbC9aTRr4sNY5ImtjRr-45" value="Skip Minigames (LE1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
-          <mxGeometry x="720" y="300" width="120" height="20" as="geometry" />
+        <mxCell id="hEbEdlZakMNNl_RcjGQe-13" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="XhbC9aTRr4sNY5ImtjRr-1" target="XhbC9aTRr4sNY5ImtjRr-43">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XhbC9aTRr4sNY5ImtjRr-46" value="Unlimited Sprint and Boost" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
-          <mxGeometry x="720" y="420" width="100" height="30" as="geometry" />
+        <mxCell id="hEbEdlZakMNNl_RcjGQe-14" value="" style="shape=ellipse;fillColor=light-dark(#4A890C,#4A890C);strokeColor=none;html=1;sketch=0;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;" vertex="1" parent="1">
+          <mxGeometry x="490" y="165" width="20" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XhbC9aTRr4sNY5ImtjRr-47" value="Smoother GUI (LE1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
-          <mxGeometry x="720" y="330" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="XhbC9aTRr4sNY5ImtjRr-48" value="Unique Moons" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
-          <mxGeometry x="720" y="390" width="90" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="XhbC9aTRr4sNY5ImtjRr-49" value="Storm Improvements" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
-          <mxGeometry x="720" y="360" width="120" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="XhbC9aTRr4sNY5ImtjRr-50" value="Vignette Remover" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
-          <mxGeometry x="720" y="460" width="110" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="XhbC9aTRr4sNY5ImtjRr-52" value="XP Rescale (LE1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
-          <mxGeometry x="720" y="490" width="110" height="20" as="geometry" />
+        <mxCell id="hEbEdlZakMNNl_RcjGQe-15" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=light-dark(#4A890C,#4A890C);align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;strokeWidth=2;" edge="1" parent="1" source="hEbEdlZakMNNl_RcjGQe-14" target="XhbC9aTRr4sNY5ImtjRr-9">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
