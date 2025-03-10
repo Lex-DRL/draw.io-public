@@ -1,9 +1,180 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.1.0">
   <diagram name="Страница — 1" id="1QfvMjIt6kSm-26QrTTU">
-    <mxGraphModel>
+    <mxGraphModel dx="728" dy="961" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-1" value="&lt;div&gt;&lt;a href=&quot;https://www.nexusmods.com/masseffectlegendaryedition/mods/564&quot;&gt;Same-Gender Romances for LE1&lt;/a&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#60a917;fontColor=default;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="160" y="40" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-2" value="&lt;div&gt;LE1 Sideloader Framework&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#0050EF,#0050EF);fontColor=default;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="160" y="200" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-3" value="&lt;div&gt;LE1 Community Patch&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#0050EF,#0050EF);fontColor=default;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="160" y="80" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-4" value="&lt;div&gt;LE1 Diversification Project&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#0050EF,#0050EF);fontColor=default;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="160" y="160" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-5" value="LE1 Definitive Audio Overhaul" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#0050EF,#0050EF);fontColor=default;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="160" y="120" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-6" value="A Lot of Videos for LE1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="320" y="120" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-7" value="A Little Help From My Friends (LE1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="320" y="80" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-8" value="Advanced Weapon Models for LE1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="320" y="160" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-9" value="Alliance Uniform Consistency" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="320" y="200" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-10" value="Appearance Modification Menu" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="320" y="240" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-11" value="Black Market License (LE1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="320" y="280" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-12" value="Caleston Restored" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="320" y="320" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-13" value="Casual Hubs for LE1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="320" y="350" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-14" value="Charted Worlds (LE1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="320" y="380" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-15" value="Combat Communication (LE1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="320" y="410" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-16" value="Eclectic Emails (LE1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="320" y="450" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-17" value="Halcyon Hairpack (LE1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="320" y="600" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-18" value="Elements of Comparative Weaponry (LE1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="320" y="490" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-19" value="Galaxy Map Trackers (LE1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="320" y="560" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-20" value="Faster Airlock" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="320" y="530" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-21" value="&lt;div&gt;Legendary Cutscenes (LE1)&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="520" y="80" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-22" value="Hot Labs Restored (LE1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="320" y="630" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-23" value="Keepers Finders (LE1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="320" y="710" width="130" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-24" value="Kaidan Alenko Overhaul" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="320" y="670" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-25" value="Mission Timings" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="520" y="240" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-26" value="Mako Squadmate Banter" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="520" y="120" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-27" value="ME3 Alliance Marine Armor for LE1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;fontSize=10;" vertex="1" parent="1">
+          <mxGeometry x="520" y="200" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-28" value="ME¹LLO" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#E51400,#E51400);fontColor=default;strokeColor=#B20000;fillStyle=auto;" vertex="1" parent="1">
+          <mxGeometry x="520" y="160" width="60" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-29" value="N7 Warfare Pack (AMM Addon)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="520" y="380" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-30" value="Morlan&#39;s &#39;Famous&#39; Iconic Armor Shop" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="520" y="270" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-31" value="N7 MAKO (LE1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="520" y="350" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-32" value="Myriad Pro Begone (LE1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="520" y="310" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-33" value="Normandy Rapid Transit" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="520" y="460" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-34" value="No Mouse Acceleration for ME1 LE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;fontSize=11;" vertex="1" parent="1">
+          <mxGeometry x="520" y="420" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-35" value="Prothean Consistency Mod (LE1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="520" y="600" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-36" value="Paragade Persuasion" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="520" y="500" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-37" value="Private Message Terminal (LE1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="520" y="560" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-38" value="Pinnacle Station DLC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="520" y="530" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-39" value="Quick Loot" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="520" y="680" width="70" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-40" value="Punch Charles Saracino" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="520" y="640" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-41" value="Scoped Overheat" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="520" y="790" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-42" value="Return to Normandy LE1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="520" y="710" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-43" value="Saren Stages LE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#0050EF,#0050EF);fontColor=default;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="160" y="240" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-44" value="Safely skip the conversation for LE1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="520" y="750" width="120" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-45" value="Skip Minigames (LE1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="520" y="820" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-46" value="Unlimited Sprint and Boost" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="520" y="940" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-47" value="Smoother GUI (LE1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="520" y="850" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-48" value="Unique Moons" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="520" y="910" width="90" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-49" value="Storm Improvements" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="520" y="880" width="120" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-50" value="Vignette Remover" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="520" y="980" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-51" value="N7 Warfare Pack (AMM Addon)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="880" y="860" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-52" value="XP Rescale (LE1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="520" y="1010" width="110" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-53" value="N7 MAKO (LE1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="880" y="830" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-54" value="Myriad Pro Begone (LE1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;" vertex="1" parent="1">
+          <mxGeometry x="880" y="790" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-55" value="Saren Stages LE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#0050EF,#0050EF);fontColor=default;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="140" y="470" width="100" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-57" style="rounded=1;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;elbow=vertical;edgeStyle=orthogonalEdgeStyle;curved=1;shadow=0;flowAnimation=0;" edge="1" parent="1" source="XhbC9aTRr4sNY5ImtjRr-56" target="XhbC9aTRr4sNY5ImtjRr-55">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-56" value="Saren Stages LE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#0050EF,#0050EF);fontColor=default;strokeColor=#001DBC;" vertex="1" parent="1">
+          <mxGeometry x="30" y="380" width="100" height="20" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
