@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.1.0">
   <diagram name="Страница — 1" id="1QfvMjIt6kSm-26QrTTU">
-    <mxGraphModel dx="1623" dy="2143" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2200" pageHeight="1200" math="0" shadow="0">
+    <mxGraphModel dx="3042" dy="1640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2200" pageHeight="1200" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -578,6 +578,39 @@
             </Array>
           </mxGeometry>
         </mxCell>
+        <mxCell id="hEbEdlZakMNNl_RcjGQe-130" value="&lt;div&gt;Установка:&lt;/div&gt;&lt;div&gt;Сверху вниз по столбцам,&lt;/div&gt;&lt;div&gt;Слева направо между столбцами&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="40" y="42.5" width="200" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="hEbEdlZakMNNl_RcjGQe-131" value="Легенда" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=none;fillColor=none;rounded=1;strokeColor=none;dashed=1;dashPattern=8 8;strokeWidth=1;" vertex="1" parent="1">
+          <mxGeometry x="60" y="120" width="140" height="180" as="geometry">
+            <mxRectangle x="170" y="158" width="80" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <UserObject label="чисто-DLC мод" id="hEbEdlZakMNNl_RcjGQe-135">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" vertex="1" parent="hEbEdlZakMNNl_RcjGQe-131">
+            <mxGeometry y="30" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Мод-патч" id="hEbEdlZakMNNl_RcjGQe-136">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#4A890C,#4A890C);fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="hEbEdlZakMNNl_RcjGQe-131">
+            <mxGeometry y="60" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="МЕГА-УБЕР-мод" id="hEbEdlZakMNNl_RcjGQe-137">
+          <mxCell style="rounded=0;whiteSpace=wrap;html=1;fillColor=light-dark(#0050EF,#0050EF);fontColor=default;strokeColor=default;fillStyle=hatch;gradientColor=none;sketch=1;curveFitting=1;jiggle=2;glass=0;shadow=0;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" vertex="1" parent="hEbEdlZakMNNl_RcjGQe-131">
+            <mxGeometry y="90" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Спорный мод" id="hEbEdlZakMNNl_RcjGQe-138">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#E51400,#E51400);fontColor=default;strokeColor=light-dark(#FFACAC,#FFACAC);points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];sketch=1;curveFitting=1;jiggle=2;" vertex="1" parent="hEbEdlZakMNNl_RcjGQe-131">
+            <mxGeometry y="120" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <UserObject label="Мод-фреймворк&lt;br&gt;(сам ничего не делает)" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/1309" id="hEbEdlZakMNNl_RcjGQe-139">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#666666,#666666);strokeColor=light-dark(#666666,#666666);sketch=1;curveFitting=1;jiggle=2;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" vertex="1" parent="hEbEdlZakMNNl_RcjGQe-131">
+            <mxGeometry y="150" width="140" height="30" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
