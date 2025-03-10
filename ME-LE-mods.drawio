@@ -171,7 +171,7 @@
         <mxCell id="XhbC9aTRr4sNY5ImtjRr-34" value="No Mouse Acceleration for ME1 LE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;fontSize=11;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
           <mxGeometry x="520" y="410" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XhbC9aTRr4sNY5ImtjRr-35" value="Prothean Consistency Mod (LE1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;" parent="1" vertex="1">
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-35" value="Prothean Consistency Mod (LE1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
           <mxGeometry x="720" y="80" width="120" height="30" as="geometry" />
         </mxCell>
         <mxCell id="XhbC9aTRr4sNY5ImtjRr-36" value="Paragade Persuasion" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
@@ -186,16 +186,16 @@
         <mxCell id="XhbC9aTRr4sNY5ImtjRr-38" value="Pinnacle Station DLC" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
           <mxGeometry x="520" y="520" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XhbC9aTRr4sNY5ImtjRr-39" value="Quick Loot" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;" parent="1" vertex="1">
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-39" value="Quick Loot" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
           <mxGeometry x="720" y="160" width="70" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XhbC9aTRr4sNY5ImtjRr-40" value="Punch Charles Saracino" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;" parent="1" vertex="1">
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-40" value="Punch Charles Saracino" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
           <mxGeometry x="720" y="120" width="90" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XhbC9aTRr4sNY5ImtjRr-41" value="Scoped Overheat" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;" parent="1" vertex="1">
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-41" value="Scoped Overheat" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
           <mxGeometry x="720" y="270" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XhbC9aTRr4sNY5ImtjRr-42" value="Return to Normandy LE1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;" parent="1" vertex="1">
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-42" value="Return to Normandy LE1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
           <mxGeometry x="720" y="190" width="90" height="30" as="geometry" />
         </mxCell>
         <mxCell id="hEbEdlZakMNNl_RcjGQe-8" style="edgeStyle=orthogonalEdgeStyle;shape=connector;curved=1;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" edge="1" parent="1" source="XhbC9aTRr4sNY5ImtjRr-43" target="XhbC9aTRr4sNY5ImtjRr-9">
@@ -204,28 +204,28 @@
         <mxCell id="XhbC9aTRr4sNY5ImtjRr-43" value="Saren Stages LE" style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#0050EF,#0050EF);fontColor=default;strokeColor=light-dark(#B2CBFF,#B2CBFF);points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
           <mxGeometry x="160" y="280" width="100" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XhbC9aTRr4sNY5ImtjRr-44" value="Safely skip the conversation for LE1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;" parent="1" vertex="1">
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-44" value="Safely skip the conversation for LE1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
           <mxGeometry x="720" y="230" width="120" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XhbC9aTRr4sNY5ImtjRr-45" value="Skip Minigames (LE1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;" parent="1" vertex="1">
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-45" value="Skip Minigames (LE1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
           <mxGeometry x="720" y="300" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XhbC9aTRr4sNY5ImtjRr-46" value="Unlimited Sprint and Boost" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;" parent="1" vertex="1">
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-46" value="Unlimited Sprint and Boost" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
           <mxGeometry x="720" y="420" width="100" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="XhbC9aTRr4sNY5ImtjRr-47" value="Smoother GUI (LE1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;" parent="1" vertex="1">
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-47" value="Smoother GUI (LE1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
           <mxGeometry x="720" y="330" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XhbC9aTRr4sNY5ImtjRr-48" value="Unique Moons" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;" parent="1" vertex="1">
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-48" value="Unique Moons" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
           <mxGeometry x="720" y="390" width="90" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XhbC9aTRr4sNY5ImtjRr-49" value="Storm Improvements" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;" parent="1" vertex="1">
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-49" value="Storm Improvements" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
           <mxGeometry x="720" y="360" width="120" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XhbC9aTRr4sNY5ImtjRr-50" value="Vignette Remover" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;" parent="1" vertex="1">
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-50" value="Vignette Remover" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
           <mxGeometry x="720" y="460" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XhbC9aTRr4sNY5ImtjRr-52" value="XP Rescale (LE1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;" parent="1" vertex="1">
+        <mxCell id="XhbC9aTRr4sNY5ImtjRr-52" value="XP Rescale (LE1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
           <mxGeometry x="720" y="490" width="110" height="20" as="geometry" />
         </mxCell>
       </root>
