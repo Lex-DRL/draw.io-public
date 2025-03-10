@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.1.0">
   <diagram name="Страница — 1" id="1QfvMjIt6kSm-26QrTTU">
-    <mxGraphModel dx="1507" dy="1990" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2200" pageHeight="1500" math="0" shadow="0">
+    <mxGraphModel dx="2110" dy="2786" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2200" pageHeight="1500" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -432,7 +432,7 @@
         <mxCell id="hEbEdlZakMNNl_RcjGQe-68" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitPerimeter=0;" parent="1" source="XhbC9aTRr4sNY5ImtjRr-17" target="XhbC9aTRr4sNY5ImtjRr-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="890" y="610" />
+              <mxPoint x="920" y="610" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -556,7 +556,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <UserObject label="Children of Rannoch -&lt;br&gt;A Quarian Overhaul (LE1)" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/1812" id="hEbEdlZakMNNl_RcjGQe-119">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#4A890C,#4A890C);fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=light-dark(#E51400,#E51400);fontColor=default;strokeColor=light-dark(#FFACAC,#FFACAC);points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];sketch=1;curveFitting=1;jiggle=2;" parent="1" vertex="1">
             <mxGeometry x="1780" y="480" width="140" height="60" as="geometry" />
           </mxCell>
         </UserObject>
@@ -581,7 +581,7 @@
         <mxCell id="hEbEdlZakMNNl_RcjGQe-129" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" parent="1" source="XhbC9aTRr4sNY5ImtjRr-8" target="XhbC9aTRr4sNY5ImtjRr-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="910" y="460" />
+              <mxPoint x="920" y="460" />
             </Array>
           </mxGeometry>
         </mxCell>
