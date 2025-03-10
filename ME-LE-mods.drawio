@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:136.0) Gecko/20100101 Firefox/136.0" version="26.1.0">
   <diagram name="Страница — 1" id="1QfvMjIt6kSm-26QrTTU">
-    <mxGraphModel dx="728" dy="961" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="879" dy="1161" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1654" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -154,17 +154,8 @@
         <mxCell id="XhbC9aTRr4sNY5ImtjRr-50" value="Vignette Remover" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="520" y="980" width="110" height="20" as="geometry" />
         </mxCell>
-        <mxCell id="XhbC9aTRr4sNY5ImtjRr-51" value="N7 Warfare Pack (AMM Addon)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;" vertex="1" parent="1">
-          <mxGeometry x="880" y="860" width="100" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="XhbC9aTRr4sNY5ImtjRr-52" value="XP Rescale (LE1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;" vertex="1" parent="1">
           <mxGeometry x="520" y="1010" width="110" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="XhbC9aTRr4sNY5ImtjRr-53" value="N7 MAKO (LE1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;" vertex="1" parent="1">
-          <mxGeometry x="880" y="830" width="100" height="20" as="geometry" />
-        </mxCell>
-        <mxCell id="XhbC9aTRr4sNY5ImtjRr-54" value="Myriad Pro Begone (LE1)" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;" vertex="1" parent="1">
-          <mxGeometry x="880" y="790" width="90" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
