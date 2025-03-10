@@ -84,7 +84,7 @@
         </mxCell>
         <UserObject label="Casual Hubs for LE1" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/574" id="XhbC9aTRr4sNY5ImtjRr-13">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
-            <mxGeometry x="40" y="635" width="120" height="20" as="geometry" />
+            <mxGeometry x="360" y="640" width="120" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Caleston Restored - Russian" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/2408" id="XhbC9aTRr4sNY5ImtjRr-14">
@@ -104,7 +104,7 @@
         </UserObject>
         <UserObject label="Halcyon Hairpack (LE1)" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/1497" id="XhbC9aTRr4sNY5ImtjRr-17">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=default;strokeColor=#2D7600;points=[[0,0.5,0,0,0],[0.5,0,0,0,0],[0.5,1,0,0,0],[1,0.5,0,0,0]];" parent="1" vertex="1">
-            <mxGeometry x="40" y="610" width="130" height="20" as="geometry" />
+            <mxGeometry x="360" y="600" width="130" height="20" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Elements of Comparative Weaponry (LE1)" link="https://www.nexusmods.com/masseffectlegendaryedition/mods/639" id="XhbC9aTRr4sNY5ImtjRr-18">
@@ -423,7 +423,7 @@
         <mxCell id="hEbEdlZakMNNl_RcjGQe-68" style="edgeStyle=none;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;exitPerimeter=0;" parent="1" source="XhbC9aTRr4sNY5ImtjRr-17" target="XhbC9aTRr4sNY5ImtjRr-4" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="890" y="620" />
+              <mxPoint x="890" y="610" />
             </Array>
           </mxGeometry>
         </mxCell>
